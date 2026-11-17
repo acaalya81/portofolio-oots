@@ -27,6 +27,20 @@ export const projects: Project[] = [
 		stack: 'TypeScript',
 		year: 2026,
 		href: 'https://github.com/nama-kamu/dashboard'
+	},
+	{
+		title: 'Website PANCAS',
+		description: 'Website belajar tentang mata pelajaran PPS.',
+		stack: 'TypeScript',
+		year: 2026,
+		href: 'https://github.com/nama-kamu/dashboard'
+	},
+	{
+		title: 'Photobooth CHEEZ!',
+		description: 'Aplikasi photobooth dengan harga berlangganan yang terjangkau.',
+		stack: 'TypeScript',
+		year: 2026,
+		href: 'https://github.com/nama-kamu/dashboard'
 	}
 ];
 
